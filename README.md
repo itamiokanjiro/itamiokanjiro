@@ -1,5 +1,5 @@
 ## 我在幹嘛
-[![Discord server](https://img.shields.io/discord/1195734228319617024.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/aWuPknjwDu)
+[![Discord server](https://img.shields.io/discord/1388096806067634229.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/aWuPknjwDu)
 
 <img src="avatar.png" alt="GitHub Banner" height="100%" />
 
