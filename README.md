@@ -1,6 +1,7 @@
 ## 我在幹嘛
-[![Discord server](https://img.shields.io/discord/1388096806067634229.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/aWuPknjwDu)
-
+<p align="center">
+ <a href="https://discord.gg/aWuPknjwDu"><img src="https://img.shields.io/discord/1388096806067634229?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
+</p>
 <img src="avatar.png" alt="GitHub Banner" height="100%" />
 
 <picture>
