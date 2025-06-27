@@ -1,5 +1,7 @@
 ## 我在幹嘛
-
+<p align="center">
+ <a href="https://discord.gg/aWuPknjwDu"><img src="https://img.shields.io/discord/1388096806067634229?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
+</p>
 <img src="avatar.png" alt="GitHub Banner" height="100%" />
 
 <picture>
@@ -14,6 +16,8 @@
 
 
 <img src="123.png" alt="picoCTF用" height="100%" />
+
+
 [picoCTF網址](https://picoctf.org/)
 
 
