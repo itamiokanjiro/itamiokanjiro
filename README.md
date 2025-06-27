@@ -1,4 +1,4 @@
-## Hi there 👋
+## 我在幹嘛
 
 <img src="avatar.png" alt="GitHub Banner" height="100%" />
 
@@ -10,7 +10,8 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=itamiokanjiro&count_private=true&include_all_commits=true" />
 </p>
-## 我要幹嘛 我不知道
+
+
 
 <img src="123.png" alt="picoCTF用" height="100%" />
 
